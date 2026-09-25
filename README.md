@@ -7,7 +7,7 @@ once polished, will hopefully be used for a audio devlopment board I have in the
 
 <p float="left">
   <img src="Media/PCB_Front.png" width="49%" height="349" />
-  <img src="Media/PCB_Back.png" width="49%" height="325" />
+  <img src="Media/PCB_Back.png" width="49%" height="300" />
 </p>
 
 # Design (V1.0.0)
