@@ -1,0 +1,18 @@
+.ADP7102ARDZ-R7 :1 ;Linear Voltage Regulators 300mA HV LDO
+SOIC127P600X175-9N
+*STM IC
+*NGS
+*PLB 1="VOUT" 2="SENSE" 3="GND_1" 4="NC" 5="EN/UVLO" 6="GND_2" 7="PG" 8="VIN" 9="EP"
+*MXP 9
+*DFN ADP7102ARDZ-R7
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (ADP7102ARDZ-R7)
+~!Mouser Part Number (584-ADP7102ARDZ-R7)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADP7102ARDZ-R7?qs=WIvQP4zGanhyecxhoOTYew%3D%3D)
+~!Arrow Part Number (ADP7102ARDZ-R7)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/adp7102ardz-r7/analog-devices?region=nac)
+~!Link Datasheet (https://www.arrow.com/en/products/adp7102ardz-r7/analog-devices?region=nac)
+~!Height (1.75mm)
+~!3D_Model (ADP7102ARDZ-R7)
+ADP7102ARDZ-R7
+1.1!U 2.1!U 3.1!U 4.1!U 9.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

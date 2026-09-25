@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX17577ATC+
+D 1A High-Efficiency, Synchronous, 4.5V to 60V, Inverting Output DC-DC Converter, 12 TDFN 3mm x 3mm
+K
+F https://datasheets.maximintegrated.com/en/ds/MAX17577-MAX17578.pdf
+$ENDCMP
+#
+#End Doc Library

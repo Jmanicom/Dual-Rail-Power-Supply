@@ -1,0 +1,122 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "XAL5050-103MEC"
+   (description "Fixed Inductors 10uH Shld 20% 4.9A 45mOhms AECQ2{0000}")
+   (family "IND")
+   (package "XAL5050103MEC")
+   (attribute "Datasheet Link" "https://componentsearchengine.com/Datasheets/2/XAL5050-103MEC.pdf")
+   (attribute "Geometry.Height" "5.1mm")
+   (attribute "Manufacturer_Name" "COILCRAFT")
+   (attribute "Manufacturer_Part_Number" "XAL5050-103MEC")
+   (attribute "Mouser Part Number" "994-XAL5050-103MEC")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Coilcraft/XAL5050-103MEC?qs=zCSbvcPd3pZ%2FwY1785KGDw%3D%3D")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "XAL5050-103MEC")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "XAL5050-103MEC"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path
+     (arc (pt 200 0) (pt 200 -52) (pt 300 48) (start -175.4) (sweep 177.7)) (pt 300 0))
+   )
+   (graphic
+    (stroke 10)
+    (path
+     (arc (pt 300 0) (pt 300 -52) (pt 400 48) (start -175.4) (sweep 177.7)) (pt 400 0))
+   )
+   (graphic
+    (stroke 10)
+    (path
+     (arc (pt 400 0) (pt 400 -52) (pt 500 48) (start -175.4) (sweep 177.7)) (pt 500 0))
+   )
+   (graphic
+    (stroke 10)
+    (path
+     (arc (pt 500 0) (pt 500 -52) (pt 600 48) (start -175.4) (sweep 177.7)) (pt 600 0))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 0) (rot 0) (mir X) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "XAL5050103MEC"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.64 2.74)
+      (pt 2.64 2.74)
+      (pt 2.64 -2.74)
+      (pt -2.64 -2.74)
+      (pt -2.64 2.74))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -2.64 2.74)
+      (pt 2.6 2.74)
+      (pt 2.6 -2.74)
+      (pt -2.64 -2.74)
+      (pt -2.64 2.74))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.64 3.74)
+      (pt 3.64 3.74)
+      (pt 3.64 -3.74)
+      (pt -3.64 -3.74)
+      (pt -3.64 3.74))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.1 0)
+      (arc (pt -3.100 0.000) (pt -3.200 -0.050) (pt -3.100 0.050) (start 180.0) (sweep .0))
+      (pt -3.2 0)
+      (arc (pt -3.200 0.000) (pt -3.200 -0.050) (pt -3.100 0.050) (start 180.0) (sweep -180.0))
+      (pt -3.1 0))))
+   (leg 1 (pt -1.655 0.000) (padstack 0))
+   (leg 2 (pt 1.655 0.000) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1.180 4.340 0 0 90.000))
+   )
+   (model "XAL5050-103MEC.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'XAL5050_103MEC'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "COILCRAFT", "XAL5050-103MEC" (!) = "", "XAL5050103MEC", "Other", "994-XAL5050-103MEC", "https://www.mouser.co.uk/ProductDetail/Coilcraft/XAL5050-103MEC?qs=zCSbvcPd3pZ%2FwY1785KGDw%3D%3D", "", "", "Fixed Inductors 10uH Shld 20% 4.9A 45mOhms AECQ2{0000}", "https://componentsearchengine.com/Datasheets/2/XAL5050-103MEC.pdf", "5.1 mm"
+END_PART
+
+END.

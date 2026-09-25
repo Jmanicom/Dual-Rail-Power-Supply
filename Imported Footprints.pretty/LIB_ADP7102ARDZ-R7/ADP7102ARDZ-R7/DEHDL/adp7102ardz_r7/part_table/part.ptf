@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ADP7102ARDZ_R7'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "ADP7102ARDZ-R7" (!) = "", "SOIC127P600X175-9N", "Small Outline Packages", "584-ADP7102ARDZ-R7", "https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADP7102ARDZ-R7?qs=WIvQP4zGanhyecxhoOTYew%3D%3D", "ADP7102ARDZ-R7", "https://www.arrow.com/en/products/adp7102ardz-r7/analog-devices?region=nac", "Linear Voltage Regulators 300mA HV LDO", "https://www.arrow.com/en/products/adp7102ardz-r7/analog-devices?region=nac", "1.75 mm"
+END_PART
+
+END.

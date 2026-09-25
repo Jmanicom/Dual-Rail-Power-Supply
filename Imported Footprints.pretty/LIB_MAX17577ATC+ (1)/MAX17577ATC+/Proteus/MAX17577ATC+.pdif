@@ -1,0 +1,171 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "MAX17577ATC+"
+   (description "1A High-Efficiency, Synchronous, 4.5V to 60V, Inverting Output DC-DC Converter, 12 TDFN 3mm x 3mm")
+   (family "ANA")
+   (package "SON50P300X300X80-13N")
+   (attribute "Datasheet Link" "https://datasheets.maximintegrated.com/en/ds/MAX17577-MAX17578.pdf")
+   (attribute "Geometry.Height" "0.8mm")
+   (attribute "Manufacturer_Name" "Analog Devices")
+   (attribute "Manufacturer_Part_Number" "MAX17577ATC+")
+   (attribute "Mouser Part Number" "700-MAX17577ATC+")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Analog-Devices-Maxim-Integrated/MAX17577ATC%2b?qs=eP2BKZSCXI6GRnD3M2riQA%3D%3D")
+   (attribute "Arrow Part Number" "MAX17577ATC+")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/max17577atc/analog-devices?utm_currency=USD&region=nac")
+   (gate
+    (symbol "MAX17577ATC+")
+    (pin "IN" 1 PS)
+    (pin "EN/UVLO" 2 PS)
+    (pin "$RESET$" 3 PS)
+    (pin "SS" 4 PS)
+    (pin "VCC" 5 PS)
+    (pin "RT/SYNC" 6 PS)
+    (pin "EP" 13 PS)
+    (pin "OUT" 12 PS)
+    (pin "LX" 11 PS)
+    (pin "BST" 10 PS)
+    (pin "GND" 9 PS)
+    (pin "SOUT" 8 PS)
+    (pin "FB" 7 PS)
+   )
+  )
+  (symbol "MAX17577ATC+"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1200 100) (pt 1200 -800) (pt 200 -800) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -500) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 700 -1000) (rot 90) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -400) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -500) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SON50P300X300X80-13N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -2.125 1.8)
+      (pt 2.125 1.8)
+      (pt 2.125 -1.8)
+      (pt -2.125 -1.8)
+      (pt -2.125 1.8))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.5 1.5)
+      (pt 1.5 1.5)
+      (pt 1.5 -1.5)
+      (pt -1.5 -1.5)
+      (pt -1.5 1.5))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -1.5 0.75)
+      (pt -0.75 1.5))))
+   (layer TSLK
+    (graphic
+     (stroke 0.25)
+     (circle
+      (pt -1.775 1.9) (pt -2.025 1.9)
+     )
+    )
+   )
+   (leg 1 (pt -1.5 1.25) (padstack 0))
+   (leg 2 (pt -1.5 0.75) (padstack 0))
+   (leg 3 (pt -1.5 0.25) (padstack 0))
+   (leg 4 (pt -1.5 -0.25) (padstack 0))
+   (leg 5 (pt -1.5 -0.75) (padstack 0))
+   (leg 6 (pt -1.5 -1.25) (padstack 0))
+   (leg 7 (pt 1.5 -1.25) (padstack 0))
+   (leg 8 (pt 1.5 -0.75) (padstack 0))
+   (leg 9 (pt 1.5 -0.25) (padstack 0))
+   (leg 10 (pt 1.5 0.25) (padstack 0))
+   (leg 11 (pt 1.5 0.75) (padstack 0))
+   (leg 12 (pt 1.5 1.25) (padstack 0))
+   (leg 13 (pt 0 0) (padstack 13))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.3 0.8 0 0 0))
+   )
+   (padstack 13
+    (plated false)
+    (pad (layer TCOP) (rectf 1.8 2.6 0 0 90))
+   )
+   (model "MAX17577ATC+.stp"
+    (euler 0 0 90)
+    (offset 0 0.029999999329447746 0.75)
+   )
+  )
+ )
+)

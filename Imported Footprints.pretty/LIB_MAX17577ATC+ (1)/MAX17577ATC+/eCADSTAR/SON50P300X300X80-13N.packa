@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MAX17577ATC+"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-10-01-10:40:03)
+    (mountForm default
+        (footprintRef "SON50P300X300X80-13N")
+        (spec "System")
+    )
+)

@@ -1,0 +1,18 @@
+.XAL5050-103MEC :1 ;Fixed Inductors 10uH Shld 20% 4.9A 45mOhms AECQ2{0000}
+XAL5050103MEC
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN XAL5050-103MEC
+~!Manufacturer_Name (COILCRAFT)
+~!Manufacturer_Part_Number (XAL5050-103MEC)
+~!Mouser Part Number (994-XAL5050-103MEC)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Coilcraft/XAL5050-103MEC?qs=zCSbvcPd3pZ%2FwY1785KGDw%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/2/XAL5050-103MEC.pdf)
+~!Height (5.1mm)
+~!3D_Model (XAL5050-103MEC)
+XAL5050-103MEC
+1.1!U 2.1!U 

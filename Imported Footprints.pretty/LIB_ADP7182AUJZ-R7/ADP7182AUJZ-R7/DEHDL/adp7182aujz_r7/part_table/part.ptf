@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ADP7182AUJZ_R7'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "ADP7182AUJZ-R7" (!) = "", "SOT95P280X100-5N", "SOT23 (5-Pin)", "584-ADP7182AUJZ-R7", "https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADP7182AUJZ-R7?qs=J50fqX%2Fl9ipEM%252BbQxVSVcg%3D%3D", "ADP7182AUJZ-R7", "https://www.arrow.com/en/products/adp7182aujz-r7/analog-devices.html?utm_currency=USD&region=nac", "Analog Devices ADP7182AUJZ-R7, LDO Regulator, -200mA Adjustable, -1.2  -28 V, +/-1% 5-Pin, TSOT", "http://www.analog.com/media/en/technical-documentation/data-sheets/ADP7182.pdf", "1 mm"
+END_PART
+
+END.

@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=ADP7102ARDZ-R7
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=9
+Version=1.1
+Released=2021-09-24 07:04:41
+Downloaded=2026-09-14 19:54:30
+3D=Y

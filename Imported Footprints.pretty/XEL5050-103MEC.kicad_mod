@@ -1,0 +1,243 @@
+(footprint "XEL5050-103MEC"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "XAL5050-103MEC-1")
+	(tags "Inductor")
+	(property "Reference" "L**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "14f8ac25-2736-4934-ac40-064e78c028da")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "XEL5050103MEC"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "1e4f11a2-9e07-45f3-9772-3a4ee49b6ed3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0a0843a7-c964-464f-83af-640446584436")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e4c51ae5-36a6-4a99-b6aa-e8270948f4b2")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -3.2 0)
+		(end -3.2 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "959c38c2-8f82-415d-a47b-c7d86f0662b8")
+	)
+	(fp_line
+		(start -3.1 0)
+		(end -3.1 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b7fd7f25-e00f-4133-995c-72243de74c1a")
+	)
+	(fp_line
+		(start -2.64 -2.74)
+		(end 2.6 -2.74)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f4552d14-e621-4a1d-ab1c-88c7d9fd853f")
+	)
+	(fp_line
+		(start -2.64 2.74)
+		(end -2.64 -2.74)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5f40d5b4-620e-45f2-86a5-0b6ec4a20d53")
+	)
+	(fp_line
+		(start 2.6 -2.74)
+		(end 2.6 2.74)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a5cf124a-4dc6-4ff6-9ec9-10c53e44ec5f")
+	)
+	(fp_line
+		(start 2.6 2.74)
+		(end -2.64 2.74)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e74f170e-2fad-4c1c-95ab-41a83a0988bb")
+	)
+	(fp_arc
+		(start -3.2 0)
+		(mid -3.15 -0.05)
+		(end -3.1 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ae13efec-fdb6-4765-8943-dcca4191c3e9")
+	)
+	(fp_arc
+		(start -3.1 0)
+		(mid -3.15 0.05)
+		(end -3.2 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d473888e-cdeb-4868-b792-ff95bb857b81")
+	)
+	(fp_line
+		(start -3.64 -3.74)
+		(end 3.64 -3.74)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "6ab647b3-0af0-4e69-b4e4-457f97a11796")
+	)
+	(fp_line
+		(start -3.64 3.74)
+		(end -3.64 -3.74)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "198226a2-3a07-4dfa-8c29-f3e035766fa3")
+	)
+	(fp_line
+		(start -2.64 -2.74)
+		(end 2.64 -2.74)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "ac6d1c45-b518-405e-ad51-6eb5b8c91dd4")
+	)
+	(fp_line
+		(start -2.64 2.74)
+		(end -2.64 -2.74)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "574ca0fd-fb1e-4a64-9639-8526e0d64908")
+	)
+	(fp_line
+		(start 2.64 -2.74)
+		(end 2.64 2.74)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "b70282c7-4d34-49b4-b4da-9e743b8cda60")
+	)
+	(fp_line
+		(start 2.64 2.74)
+		(end -2.64 2.74)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "3f276bd9-ee49-4c6f-ab82-28ef1fcb21b1")
+	)
+	(fp_line
+		(start 3.64 -3.74)
+		(end 3.64 3.74)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "5d198576-1dd6-4c65-83f2-5b4bddc89578")
+	)
+	(fp_line
+		(start 3.64 3.74)
+		(end -3.64 3.74)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "dac2b834-ae60-453d-9646-9f855f45fac3")
+	)
+	(pad "1" smd rect
+		(at -1.655 0)
+		(size 1.18 4.34)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "84dbc79b-acab-46ca-add6-40c0190aa655")
+	)
+	(pad "2" smd rect
+		(at 1.655 0)
+		(size 1.18 4.34)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "7d79ec8c-b0c1-40ce-9837-157035a00eac")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/Imported Footprints.pretty/LIB_XAL5050-103MEC/XAL5050-103MEC/3D/XAL5050-103MEC.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

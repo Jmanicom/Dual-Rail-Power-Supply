@@ -1,0 +1,9 @@
+Manufacturer=COILCRAFT
+PartNumber=XAL5050-103MEC
+PartCategory=Inductor
+PackageCategory=Other
+PinCount=2
+Version=1.7
+Released=2021-07-30 15:15:04
+Downloaded=2026-09-14 20:20:46
+3D=Y
