@@ -2,9 +2,11 @@
 A low-noise power supply designed around the usage with audio circuits and low power applications. This power supply,
 once polished, will hopefully be used for a audio devlopment board I have in the works.
 
-### Skills Used for Project
+### **Skills Used for Project**
 ***Analog Circuit Design, KiCad, LTSPICE, Hand/Hot Air Soldering, Component Selection, Oscilloscope, Testing/Validation***
+
 ---
+
 <p float="left">
   <img src="Media/PCB_Front.png" width="49%" height="349" />
   <img src="Media/PCB_Back.png" width="49%" height="308" />
