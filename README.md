@@ -2,12 +2,14 @@
 A low-noise power supply designed around the usage with audio circuits and low power applications. This power supply,
 once polished, will hopefully be used for a audio devlopment board I have in the works.
 
-### Skills Used for Project
-***Analog Circuit Design, KiCad, LTSPICE, Hand/Hot Air Soldering, Component Selection***
+### **Skills Used for Project**
+***Analog Circuit Design, KiCad, LTSPICE, Hand/Hot Air Soldering, Component Selection, Oscilloscope, Testing/Validation***
+
+---
 
 <p float="left">
-  <img src="Media/PCB_Front.png" width="49%" />
-  <img src="Media/PCB_Back.png" width="49%" height="499" />
+  <img src="Media/PCB_Front.png" width="49%" height="349" />
+  <img src="Media/PCB_Back.png" width="49%" height="308" />
 </p>
 
 # Design (V1.0.0)
@@ -36,6 +38,8 @@ relatively low, and thus I found the associated power loss from these chips to b
 in mind. Additionally, to help stabilize rails and reduce noise, input and output capacitors have been added for each regulator in values of 10uf, and 2.2uf.
 This choice was suggested by Analog Devices datasheets for each device, along with a group of series capacitors in parallel with the feedback resistors at
 a value of 220pf.
+
+# Simulation
 
 # Testing
 
