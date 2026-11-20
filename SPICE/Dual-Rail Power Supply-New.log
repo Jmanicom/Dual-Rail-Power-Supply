@@ -1,0 +1,17 @@
+LTspice 24.1.5 for Windows
+Circuit: C:\Users\joshm\Documents\KiCad\10.0\projects\Dual-Rail Power Supply\Dual-Rail-Power-Supply\SPICE\Dual-Rail Power Supply-New.net
+Start Time: Wed Nov  4 23:03:12 2026
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 32.138 seconds.
+
+Files loaded:
+C:\Users\joshm\Documents\KiCad\10.0\projects\Dual-Rail Power Supply\Dual-Rail-Power-Supply\SPICE\Dual-Rail Power Supply-New.net
+C:\Users\joshm\AppData\Local\LTspice\lib\sub\ADP7102.lib
+C:\Users\joshm\AppData\Local\LTspice\lib\sub\ADP7182.sub
+C:\Users\joshm\AppData\Local\LTspice\lib\sub\MAX17577.sub
+

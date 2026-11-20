@@ -1,0 +1,66 @@
+### Footprint positions - created on 2026-10-08T10:07:30 ###
+### Printed by KiCad version 10.0.5
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                            Package                                                      PosX       PosY       Rot  Side
+C1        1u                             C_0805_2012Metric_Pad1.18x1.45mm_HandSolder              151.6380   -76.9913  -90.0000  top
+C2        1.5uf                          C_0805_2012Metric_Pad1.18x1.45mm_HandSolder              130.4075  -101.8540    0.0000  top
+C3        22u                            C_0805_2012Metric_Pad1.18x1.45mm_HandSolder              129.2606   -98.3234   90.0000  top
+C4        5.6u                           C_0805_2012Metric_Pad1.18x1.45mm_HandSolder              131.4450   -98.3234   90.0000  top
+C5        0.1u                           C_0603_1608Metric_Pad1.08x0.95mm_HandSolder              121.9962  -100.7099  -90.0000  top
+C6        10u                            C_1206_3216Metric_Pad1.33x1.80mm_HandSolder              122.5409  -105.6771   90.0000  top
+C7        10u                            C_1206_3216Metric_Pad1.33x1.80mm_HandSolder              127.6604   -79.8683   90.0000  top
+C8        2.2u                           C_0805_2012Metric_Pad1.18x1.45mm_HandSolder              130.0480   -79.6481   90.0000  top
+C9        10u                            C_1206_3216Metric_Pad1.33x1.80mm_HandSolder              132.4864   -75.1099   90.0000  top
+C10       2.2u                           C_0805_2012Metric_Pad1.18x1.45mm_HandSolder              134.7724   -75.6779   90.0000  top
+C11       220p                           C_0603_1608Metric_Pad1.08x0.95mm_HandSolder              136.8552   -78.2483  -90.0000  top
+C12       220p                           C_0603_1608Metric_Pad1.08x0.95mm_HandSolder              136.8552   -81.7027  -90.0000  top
+C13       10u                            C_1206_3216Metric_Pad1.33x1.80mm_HandSolder              163.3220  -106.0835   90.0000  top
+C14       2.2u                           C_0805_2012Metric_Pad1.18x1.45mm_HandSolder              157.4585  -109.8550  180.0000  top
+C15       10u                            C_1206_3216Metric_Pad1.33x1.80mm_HandSolder              155.6512  -100.2024   90.0000  top
+C16       2.2u                           C_0805_2012Metric_Pad1.18x1.45mm_HandSolder              157.9372  -100.7950   90.0000  top
+C17       220p                           C_0603_1608Metric_Pad1.08x0.95mm_HandSolder              150.8252  -104.5846  -90.0000  top
+C18       220p                           C_0603_1608Metric_Pad1.08x0.95mm_HandSolder              150.8252  -108.1914  -90.0000  top
+C19       0.1u                           C_0603_1608Metric_Pad1.08x0.95mm_HandSolder              147.3465  -100.4570  180.0000  top
+C20       10u                            C_1206_3216Metric_Pad1.33x1.80mm_HandSolder              125.1966  -105.6771   90.0000  top
+C21       10uf                           C_0805_2012Metric_Pad1.18x1.45mm_HandSolder              131.4821  -104.1400    0.0000  top
+D1        LED                            D_0805_2012Metric_Pad1.15x1.40mm_HandSolder              107.6198   -96.7515   90.0000  top
+D2        LED                            D_0805_2012Metric_Pad1.15x1.40mm_HandSolder              107.5690   -88.1380   90.0000  top
+D3        LED                            D_0805_2012Metric_Pad1.15x1.40mm_HandSolder              107.4928   -79.4795  -90.0000  top
+IC1       MAX17577ATC+                   MAX17577ATC+                                             125.7797  -100.8210  180.0000  top
+IC2       ADP7182AUJZ-R7                 ADP7182AUJZ-R7                                           133.5224   -79.5680    0.0000  top
+IC3       ADP7102ARDZ-R7                 ADP7102ARDZ-R7                                           158.1716  -105.8203    0.0000  top
+J1        USB_C_Receptacle_PowerOnly_6P  USB_C_Receptacle_GCT_USB4135-GF-A_6P_TopMnt_Horizontal   165.4032   -76.9620   90.0000  top
+J3        PINHD_1x6_Male                 PinHeader_1x06_P2.54mm_Vertical                          165.8112   -88.0872    0.0000  top
+L1        XAL5050-103MEC                 XEL5050-103MEC                                           117.0686  -105.7188  -90.0000  top
+R1        5.1k                           R_0805_2012Metric_Pad1.20x1.40mm_HandSolder              154.1780   -80.1276  -90.0000  top
+R2        5.1k                           R_0805_2012Metric_Pad1.20x1.40mm_HandSolder              156.3624   -80.0956   90.0000  top
+R3        1k                             R_0805_2012Metric_Pad1.20x1.40mm_HandSolder              158.6108   -73.4644  180.0000  top
+R4        20k                            R_0805_2012Metric_Pad1.20x1.40mm_HandSolder              153.6032   -72.2884    0.0000  top
+R7        70.k                           R_0805_2012Metric_Pad1.20x1.40mm_HandSolder              120.8532   -96.9010    0.0000  top
+R8        12.4k                          R_0805_2012Metric_Pad1.20x1.40mm_HandSolder              124.7140   -96.9010    0.0000  top
+R9        10.5k                          R_0805_2012Metric_Pad1.20x1.40mm_HandSolder              131.5704  -106.5784    0.0000  top
+R10       120k                           R_0805_2012Metric_Pad1.20x1.40mm_HandSolder              138.7348   -77.7044  -90.0000  top
+R11       30k                            R_0805_2012Metric_Pad1.20x1.40mm_HandSolder              138.7348   -81.6160  -90.0000  top
+R12       30k                            R_0805_2012Metric_Pad1.20x1.40mm_HandSolder              160.8996  -101.7895  180.0000  top
+R13       120k                           R_0805_2012Metric_Pad1.20x1.40mm_HandSolder              148.7932  -104.5487  -90.0000  top
+R14       30k                            R_0805_2012Metric_Pad1.20x1.40mm_HandSolder              148.7932  -108.4283  -90.0000  top
+R15       30k                            R_0805_2012Metric_Pad1.20x1.40mm_HandSolder              145.4310  -102.6160    0.0000  top
+R16       350R                           R_0805_2012Metric_Pad1.20x1.40mm_HandSolder              109.8550   -96.7740   90.0000  top
+R17       350R                           R_0805_2012Metric_Pad1.20x1.40mm_HandSolder              109.7280   -88.1540   90.0000  top
+R18       350R                           R_0805_2012Metric_Pad1.20x1.40mm_HandSolder              109.7026   -79.5020   90.0000  top
+R19       10k                            R_0805_2012Metric_Pad1.20x1.40mm_HandSolder              131.5704  -108.7120    0.0000  top
+RV1       30k                            Potentiometer_Bourns_TC33X_Vertical                      141.9860   -78.5644   90.0000  top
+RV2       30k                            Potentiometer_Bourns_TC33X_Vertical                      145.4912  -106.3123   90.0000  top
+TP1       VBUS                           TestPoint_Pad_D1.5mm                                     159.3596   -79.5528    0.0000  top
+TP2       GND                            TestPoint_Pad_D1.5mm                                     151.5872   -80.4164    0.0000  top
+TP3       -VSUPP                         TestPoint_Pad_D1.5mm                                     127.7620  -104.6480    0.0000  top
+TP4       -VSUPP                         TestPoint_Pad_D1.5mm                                     133.4770   -82.8040    0.0000  top
+TP5       -VOUT                          TestPoint_Pad_D1.5mm                                     137.6680   -74.4220    0.0000  top
+TP6       VBUS                           TestPoint_Pad_D1.5mm                                     161.0360  -110.0113    0.0000  top
+TP7       +VOUT                          TestPoint_Pad_D1.5mm                                     153.0096  -104.9391    0.0000  top
+TP8       TestPoint                      TestPoint_Pad_D1.5mm                                     153.0408  -109.8843    0.0000  top
+TP9       TestPoint                      TestPoint_Pad_D1.5mm                                     141.9860   -74.4372    0.0000  top
+TP10      TestPoint                      TestPoint_Pad_D1.5mm                                     123.7742  -110.8710    0.0000  top
+U1        CH221K                         SOT-23-6                                                 155.2657   -76.4120    0.0000  top
+## End
